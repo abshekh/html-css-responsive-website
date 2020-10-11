@@ -1,0 +1,21 @@
+{
+  "name": "acme",
+  "version": "1.0.0",
+  "description": "Followed Brad Traversy's tutorial on [youtube](https://www.youtube.com/watch?v=Wm6CUkswsNw).",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abshekh/html-css-responsive-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://abshekh.github.io/test-website",
+  "bugs": {
+    "url": "https://github.com/abshekh/html-css-responsive-website/issues"
+  },
+  "homepage": "https://github.com/abshekh/html-css-responsive-website#readme"
+}
